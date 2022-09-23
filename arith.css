@@ -1,0 +1,16 @@
+*{
+    margin:10px;
+    padding:0px;
+}
+
+body{
+background-color: rgb(229, 241, 237);
+text-align: center;
+}
+
+/*main content*/
+.style{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(240, 204, 191);
+}
